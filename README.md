@@ -27,7 +27,11 @@ pendulum.mlx implements control of inverted pendulum continuous system with LQR 
 
 ## Example of regulation:
 
-![Relative success](penLQR.gif) / ! [](penLQR.gif)
+State vector: (x, dot_x, theta, dot_theta) <br />
+Initial conditions: (-1, 0, pi-0.5, 0) <br />
+Setpoint for regulation: (3.5, 0, pi, 0) <br />
+
+![LQR regulation](penLQR.gif) / ! [](penLQR.gif)
 
 ## Sources: 
 [1] - https://www.youtube.com/watch?v=1_UobILf3cc&list=PLQboW6x--OK3bgcxSxIYivYG0FfkqPYtT&index=3&t=613s&ab_channel=SteveBrunton<br />
