@@ -6,7 +6,7 @@ Semestral work on inverted pendulum control, executed in jupyter notebook and ma
 
 ├───matlab_sem<br /> 
 │   └───pendulum.mlx (Matlab file implementing control of continuous model of inverted pendulum with LQR,MPC)<br />
-│   └───JMPC.m                  (Matlab function implementing criterial function to minimize)<br /> 
+│   └───JMPC.m       (Matlab function implementing criterial function to minimize)<br /> 
 ├───pendulum_sem.pdf            (pdf generated from pendulum.mlx)
 ├───semestralka_jupyter.ipynb   (Jupyter file implementing control of continuous model of inverted pendulum via LQR + animation of control)<br />
 
