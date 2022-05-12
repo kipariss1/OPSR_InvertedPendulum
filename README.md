@@ -36,4 +36,4 @@ Setpoint for regulation: (3.5, 0, pi, 0) <br />
 ## Sources: 
 [1] - https://www.youtube.com/watch?v=1_UobILf3cc&list=PLQboW6x--OK3bgcxSxIYivYG0FfkqPYtT&index=3&t=613s&ab_channel=SteveBrunton<br />
 
-[2] - Data Driven Science & Engineering Machine Learning, Dynamical Systems, and Control; Steven L. Brunton; J. Nathan Kutz <br />
+[2] - Data Driven Science & Engineering Machine Learning, Dynamical Systems, and Control; Steven L. Brunton; J. Nathan Kutz (link: http://databookuw.com/databook.pdf) <br />
